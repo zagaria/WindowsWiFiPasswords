@@ -1,5 +1,5 @@
 # Windows WiFi Passwords
-PowerShell script for get all passwords for WiFi Networks from Windows
+PowerShell script for get all passwords for WiFi Networks from Windows.
 Have simple progress bar.
 
 #How to use
