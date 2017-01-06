@@ -39,6 +39,8 @@ for($i=1; $i -le $networksLength; $i++)
     }
 }
 
+$passwords
+
 $saveResult = Read-Host -Prompt 'Save results to file wifi.txt? (yes/no)'
 
 if($saveResult -eq "yes")
